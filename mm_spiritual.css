@@ -1,0 +1,114 @@
+/* Global Styles */
+
+body {
+	margin:0;
+	}
+
+td 	{
+	font:12px Georgia, Times New Roman, Times, serif;
+	color:#2F4C85;
+	}
+	
+a {
+	color: #000033;
+	}
+	
+a:hover {
+	color: #E9B605;
+	}
+	
+/* ID Styles */
+
+#navigation a {
+	font:14px Georgia, Times New Roman, Times, serif;
+	color: #F7E8D5;
+	letter-spacing:.1em;
+	line-height:14px;
+	text-decoration: none;
+	display:block;
+	padding: 8px 14px;
+	}
+	
+#navigation a:hover {
+	background: #CADDFB;
+	color:#597DC4;
+	}
+
+/* Calendar Styles */
+
+#calendar td {
+	border: 1px solid #2F4C85; 
+	}
+	
+#noborder td{
+	border: 0px;
+	}
+
+#calheader td {
+	font-weight:bold;
+	color:#E9B605;
+	}
+
+#weekdays th {
+	font-weight:bold;
+	color: #5682C6;
+	}
+
+	
+/* Class Styles */
+
+.logo {
+	font:24px Georgia, Times New Roman, Times, serif;
+	color: #5682C6;
+	letter-spacing:.2em;
+	line-height:26px;
+	}
+	
+.tagline {
+	font:20px Georgia, Times New Roman, Times, serif;
+	color: #5682C6;
+	letter-spacing:.1em;
+	line-height:14px;
+	}
+	
+.bodyText {
+	font:16px Georgia, Times New Roman, Times, serif;
+	color:#2F4C85;
+	line-height:24px;
+	}
+	
+.pageName {
+	font:24px Georgia, Times New Roman, Times, serif;
+	color: #CC9900;
+	letter-spacing:.1em;
+	line-height:24px;
+	}
+
+.pageName2 {
+	font:20px Georgia, Times New Roman, Times, serif;
+	color: #2f4c85;
+	line-height:20px;
+	letter-spacing:.1em;
+	}
+
+	
+.subHeader {
+	font:14px Georgia, Times New Roman, Times, serif;
+	color: #2f4c85;
+	line-height:20px;
+	letter-spacing:.1em;
+	}
+	
+.navText {
+	font:16px Georgia, Times New Roman, Times, serif;
+	color: #F7E8D5;
+	letter-spacing:.1em;
+	line-height:14px;
+	}
+
+.calendarText {
+	font:16px Arial, Helvetica, sans-serif;
+	color: #2F4C85;
+	letter-spacing:.1em;
+	}
+	
